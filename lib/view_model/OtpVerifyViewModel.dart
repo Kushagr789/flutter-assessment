@@ -1,7 +1,7 @@
 import 'dart:convert';
-import 'package:assessment/data/data.dart';
-import 'package:assessment/resources/app_urls.dart';
-import 'package:assessment/service/apiServices.dart';
+import 'package:Kushagra/data/data.dart';
+import 'package:Kushagra/resources/app_urls.dart';
+import 'package:Kushagra/service/apiServices.dart';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 

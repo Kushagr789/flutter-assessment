@@ -1,4 +1,4 @@
-import 'package:assessment/resources/colors.dart';
+import 'package:Kushagra/resources/colors.dart';
 import 'package:flutter/material.dart';
 class CountryBox extends StatelessWidget {
   const CountryBox({super.key, required this.title, required this.image, required this.status, required this.onPress});

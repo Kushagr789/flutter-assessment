@@ -1,11 +1,11 @@
 import 'dart:convert';
 import 'dart:io';
 
-import 'package:assessment/data/app_exceptions.dart';
-import 'package:assessment/data/data.dart';
-import 'package:assessment/model/loginModel.dart';
-import 'package:assessment/resources/app_urls.dart';
-import 'package:assessment/service/baseApiServices.dart';
+import 'package:Kushagra/data/app_exceptions.dart';
+import 'package:Kushagra/data/data.dart';
+import 'package:Kushagra/model/loginModel.dart';
+import 'package:Kushagra/resources/app_urls.dart';
+import 'package:Kushagra/service/baseApiServices.dart';
 import 'package:http/http.dart'as http;
 import 'package:http/http.dart';
 class ApiServices extends BaseApiServices{

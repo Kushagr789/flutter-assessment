@@ -1,8 +1,8 @@
-import 'package:assessment/resources/colors.dart';
-import 'package:assessment/resources/components/backButton.dart';
-import 'package:assessment/resources/components/country.dart';
-import 'package:assessment/resources/components/roundButton.dart';
-import 'package:assessment/view_model/SelectCountryViewModel.dart';
+import 'package:Kushagra/resources/colors.dart';
+import 'package:Kushagra/resources/components/country.dart';
+import 'package:Kushagra/resources/components/roundButton.dart';
+import 'package:Kushagra/view_model/SelectCountryViewModel.dart';
+import 'package:Kushagra/resources/components/backButton.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 class SelectCountry extends StatelessWidget {

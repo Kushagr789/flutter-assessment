@@ -1,11 +1,10 @@
 import 'dart:convert';
 
-import 'package:assessment/data/data.dart';
-import 'package:assessment/model/resendOtp.dart';
-import 'package:assessment/resources/app_urls.dart';
+import 'package:Kushagra/data/data.dart';
+import 'package:Kushagra/model/resendOtp.dart';
+import 'package:Kushagra/resources/app_urls.dart';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
-import 'package:provider/provider.dart';
 
 class ResendOtpViewModel extends ChangeNotifier {
   Future<ResendOtpModel> resendOTP() async {

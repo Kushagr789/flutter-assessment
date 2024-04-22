@@ -1,9 +1,8 @@
-import 'package:assessment/data/data.dart';
-import 'package:assessment/resources/colors.dart';
-import 'package:assessment/resources/components/roleWidget.dart';
-import 'package:assessment/view/searchCountry.dart';
-import 'package:assessment/view/tnc.dart';
-import 'package:assessment/view_model/tncViewModel.dart';
+import 'package:Kushagra/data/data.dart';
+import 'package:Kushagra/resources/colors.dart';
+import 'package:Kushagra/resources/components/roleWidget.dart';
+import 'package:Kushagra/view/searchCountry.dart';
+import 'package:Kushagra/view/tnc.dart';
 
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';

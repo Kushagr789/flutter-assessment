@@ -1,10 +1,10 @@
-import 'package:assessment/data/data.dart';
-import 'package:assessment/resources/colors.dart';
-import 'package:assessment/resources/components/backButton.dart';
-import 'package:assessment/resources/components/phoneInput.dart';
-import 'package:assessment/resources/components/roundButton.dart';
-import 'package:assessment/view/verify.dart';
-import 'package:assessment/view_model/loginViewModel.dart';
+import 'package:Kushagra/data/data.dart';
+import 'package:Kushagra/resources/colors.dart';
+import 'package:Kushagra/resources/components/backButton.dart';
+import 'package:Kushagra/resources/components/phoneInput.dart';
+import 'package:Kushagra/resources/components/roundButton.dart';
+import 'package:Kushagra/view/verify.dart';
+import 'package:Kushagra/view_model/loginViewModel.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 class PhoneNumScreen extends StatefulWidget {

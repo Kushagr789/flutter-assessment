@@ -1,6 +1,6 @@
-import 'package:assessment/data/data.dart';
-import 'package:assessment/resources/colors.dart';
-import 'package:assessment/resources/components/phoneInput.dart';
+import 'package:Kushagra/data/data.dart';
+import 'package:Kushagra/resources/colors.dart';
+import 'package:Kushagra/resources/components/phoneInput.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 class PhoneInput extends StatefulWidget {

@@ -1,4 +1,4 @@
-import 'package:assessment/model/TncModel.dart';
+
 
 class TermsAndConditions {
   final String title;

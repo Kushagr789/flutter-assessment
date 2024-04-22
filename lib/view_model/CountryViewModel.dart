@@ -1,7 +1,7 @@
 import 'dart:convert';
 
-import 'package:assessment/model/Country.dart';
-import 'package:assessment/resources/app_urls.dart';
+import 'package:Kushagra/model/Country.dart';
+import 'package:Kushagra/resources/app_urls.dart';
 import 'package:flutter/foundation.dart';
 import 'package:http/http.dart' as http;
 class CountryViewModel extends ChangeNotifier{

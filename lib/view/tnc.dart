@@ -1,7 +1,7 @@
-import 'package:assessment/model/TncModel.dart';
-import 'package:assessment/resources/colors.dart';
-import 'package:assessment/resources/components/crossButton.dart';
-import 'package:assessment/view_model/tncViewModel.dart';
+import 'package:Kushagra/model/TncModel.dart';
+import 'package:Kushagra/resources/colors.dart';
+import 'package:Kushagra/resources/components/crossButton.dart';
+import 'package:Kushagra/view_model/tncViewModel.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_html/flutter_html.dart';
 import 'package:provider/provider.dart';

@@ -1,11 +1,11 @@
-import 'package:assessment/resources/colors.dart';
-import 'package:assessment/resources/components/backButton.dart';
-import 'package:assessment/resources/components/otpInput.dart';
-import 'package:assessment/resources/components/roundButton.dart';
-import 'package:assessment/view/selectCountry.dart';
-import 'package:assessment/view_model/OtpVerifyViewModel.dart';
-import 'package:assessment/view_model/ResendOtpViewModel.dart';
-import 'package:assessment/view_model/TimerProvider.dart';
+import 'package:Kushagra/resources/colors.dart';
+import 'package:Kushagra/resources/components/backButton.dart';
+import 'package:Kushagra/resources/components/otpInput.dart';
+import 'package:Kushagra/resources/components/roundButton.dart';
+import 'package:Kushagra/view/selectCountry.dart';
+import 'package:Kushagra/view_model/OtpVerifyViewModel.dart';
+import 'package:Kushagra/view_model/ResendOtpViewModel.dart';
+import 'package:Kushagra/view_model/TimerProvider.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 class Verify extends StatefulWidget {

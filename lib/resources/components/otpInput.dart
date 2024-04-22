@@ -1,5 +1,5 @@
-import 'package:assessment/resources/colors.dart';
-import 'package:assessment/view_model/OtpVerifyViewModel.dart';
+import 'package:Kushagra/resources/colors.dart';
+import 'package:Kushagra/view_model/OtpVerifyViewModel.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 class OtpInput extends StatefulWidget {

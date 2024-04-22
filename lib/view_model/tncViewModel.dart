@@ -1,7 +1,7 @@
 import 'dart:convert';
 
-import 'package:assessment/model/TncModel.dart';
-import 'package:assessment/resources/app_urls.dart';
+import 'package:Kushagra/model/TncModel.dart';
+import 'package:Kushagra/resources/app_urls.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:http/http.dart'as http;
 

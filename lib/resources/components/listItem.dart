@@ -1,4 +1,4 @@
-import 'package:assessment/resources/colors.dart';
+import 'package:Kushagra/resources/colors.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 class ListItem extends StatelessWidget {
